@@ -9,6 +9,7 @@ In the folder: `src/main/java`, run the command:
 
 Copy the lib folder to target folder, so it's visible by the jar:
 In the root folder of the project, run:
+`mkdir target`
 `cp -r lib target`
 
 Running the jar:
