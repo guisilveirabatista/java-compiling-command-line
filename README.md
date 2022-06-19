@@ -1,7 +1,7 @@
 Compiling:
 
 In the folder: `src/main/java`, run the command:
-`javac -classpath "C:\Users\guisi\Desktop\workspace\java\project1\lib\wordnet-random-name-1.5.jar;" nl/guisilver/Main.java`
+`javac -classpath "../../../lib/wordnet-random-name-1.5.jar;" nl/guisilver/Main.java`
 
 Generating jar file:
 In the folder: `src/main/java`, run the command:
