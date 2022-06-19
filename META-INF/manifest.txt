@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-by: Guilherme Silveira
+Main-Class: nl.guisilver.Main
+Class-Path: lib/wordnet-random-name-1.5.jar
+Created-By: 15.0.1 (Oracle Corporation)
